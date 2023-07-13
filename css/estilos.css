@@ -19,7 +19,7 @@ nav {
 }
 
 .fondo {
-    background-image: url(/img/fondo_3.jpg);
+    background-image: url(../img/fondo_3.jpg);
     height: 530px;
     width: auto;
     background-position: center;
